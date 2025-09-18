@@ -132,3 +132,10 @@
 
 <img width="586" height="331" alt="image" src="https://github.com/user-attachments/assets/549b338f-b1f1-4b74-924d-0443f1bb916b" />
 
+## About Me:
+
+## I’m an aspiring Data Analyst / Data Scientist open to opportunities in analytics and machine learning.
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
